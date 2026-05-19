@@ -24,7 +24,7 @@ A full RAG pipeline built for IGCSE students — upload past papers, ask questio
 
 ---
 
-### [Vexus](https://github.com/smdsqb/Vexus)
+### [Vexus](https://github.com/smdsqb/Vexus) &nbsp;·&nbsp; [↗ repo](https://github.com/smdsqb/Vexus)
 A custom jersey e-commerce store built with a classmate as a side business. I handled all the tech, he handled the business side. On pause during exams.
 
 `Next.js` `Tailwind`
