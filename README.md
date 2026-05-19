@@ -4,7 +4,7 @@
 
 I build products that solve real problems. Currently finishing my IGCSEs while shipping apps on the side — because waiting until you're older is overrated.
 
-Interested in **AI/RAG pipelines**, **full-stack development**, and eventually **blue team cybersecurity**. Also deeply into geopolitics and military history, but that's a separate rabbit hole.
+Interested in **AI/RAG pipelines**, **full-stack development**, and eventually **blue team cybersecurity**. Also deeply into geopolitics, military warfare and history, but that's a separate rabbit hole.
 
 ---
 
@@ -46,10 +46,9 @@ A custom jersey e-commerce store built with a classmate as a side business. I ha
 
 ## Currently
 
-- Finishing IGCSEs
+- Finishing IGCSEs - May/June 2026 Batch
 - Building Warditor's Android app
-- Targeting cybersecurity at university — blue team, eventually Cloudflare
-- Moving to India in June
+- Targeting cybersecurity at university — blue team
 
 ---
 
@@ -60,5 +59,4 @@ A custom jersey e-commerce store built with a classmate as a side business. I ha
 
 ---
 
-![Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=smdsqb&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smdsqb&layout=compact&hide_border=true&theme=default)
+[→ View all repositories](https://github.com/smdsqb?tab=repositories)
