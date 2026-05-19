@@ -47,7 +47,7 @@ A custom jersey e-commerce store built with a classmate as a side business. I ha
 ## Currently
 
 - Finishing IGCSEs - May/June 2026 Batch
-- Building Warditor's Android app with [**@codesharpper**](https://github.com/codesharpper)
+- Building Warditor's Android app with [**nikhilcherry**](https://github.com/nikhilcherry)
 - Targeting cybersecurity at university — blue team
 
 ---
