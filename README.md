@@ -1,10 +1,10 @@
 # Hey, I'm Saqib 👋
 
-**16 · Singapore → India · Full-stack developer · Cybersecurity enthusiast**
+**16 · IGCSE Student · Cybersecurity enthusiast**
 
 I build products that solve real problems. Currently finishing my IGCSEs while shipping apps on the side — because waiting until you're older is overrated.
 
-Interested in **AI/RAG pipelines**, **full-stack development**, and eventually **blue team cybersecurity**. Also deeply into geopolitics, military warfare and history, but that's a separate rabbit hole.
+Interested in **AI/RAG pipelines**, **Website/App development**, and eventually **blue team cybersecurity**. Also deeply into geopolitics, military warfare and history, but that's a separate rabbit hole.
 
 ---
 
@@ -47,15 +47,8 @@ A custom jersey e-commerce store built with a classmate as a side business. I ha
 ## Currently
 
 - Finishing IGCSEs - May/June 2026 Batch
-- Building Warditor's Android app
+- Building Warditor's Android app with @codesharpper
 - Targeting cybersecurity at university — blue team
-
----
-
-## Find Me
-
-[![Warditor](https://img.shields.io/badge/Warditor-ff3b2f?style=flat-square)](https://warditor.vercel.app)
-[![IGCSEPulse](https://img.shields.io/badge/IGCSEPulse-00B5AD?style=flat-square)](https://igcse-pulse.vercel.app)
 
 ---
 
